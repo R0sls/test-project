@@ -1,2 +1,2 @@
-# test-project
+# testing the projects via github
 test-project
